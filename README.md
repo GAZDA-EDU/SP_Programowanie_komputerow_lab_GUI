@@ -23,3 +23,8 @@ Program powinien otworzyć okno o rozmiarze 500x500, w którego lewym górnym ro
 Przycisk reaguje na pojawienie się nad nim kursora myszy, przemieszczając się do losowo wybranego miejsca w obrębie okna 
 (miejsce to należy dobrać w taki sposób, aby gwarantowało ucieczkę spod kursora).
 
+Zadanie 5. Głowa. Widżety: 1xButton.
+Program powinien otworzyć okno o rozmiarze 500x500, w którego środku pojawia się przycisk z bitmapą „questhead”. 
+Przycisk reaguje na naciskanie klawiszy kursora (strzałek na klawiaturze), przemieszczając się o jeden piksel w kierunku zadanym klawiszem lub o 5 pikseli, jeżeli użyto klawiszy kursora razem z klawiszem
+Ctrl. Przycisk żadnym swoim fragmentem nie może opuścić obszaru okna. Naciśnięcie klawisza <Esc> kończy pracę programu.
+  
