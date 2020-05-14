@@ -18,7 +18,7 @@ Widżety: 1xCanvas.
 Zadaniem programu jest stworzenie rysunku przedstawiającego żaglowiec. Nie realizujemy żadnej interakcji z użytkownikiem.
 
 Zadanie 4. Musofobia.
-Widżety: 1xButton
+Widżety: 1xButton.
 Program powinien otworzyć okno o rozmiarze 500x500, w którego lewym górnym rogu pojawia się przycisk z napisem „Złap mnie”. 
 Przycisk reaguje na pojawienie się nad nim kursora myszy, przemieszczając się do losowo wybranego miejsca w obrębie okna 
 (miejsce to należy dobrać w taki sposób, aby gwarantowało ucieczkę spod kursora).
