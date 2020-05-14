@@ -15,5 +15,5 @@ Po zamknięciu okna błędu skupienie powinno przenieść się do tego widżetu 
 
 Zadanie 3. Żaglowiec.
 Widżety: 1xCanvas.
-Zadaniem programu jest stworzenie rysunku przedstawionego żaglowiec. Nie realizujemy żadnej interakcji z użytkownikiem.
+Zadaniem programu jest stworzenie rysunku przedstawiającego żaglowiec. Nie realizujemy żadnej interakcji z użytkownikiem.
 
