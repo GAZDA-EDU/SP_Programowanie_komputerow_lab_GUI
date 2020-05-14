@@ -12,3 +12,8 @@ Zadanie 2. Kalkulatorek.
 Widżety: 2xEntry, 4xRadiobutton, 1xButton.
 Użytkownik wprowadza 2 liczby do widżetów Entry, wybiera operację widżetem Radiobutton, a po kliknięciu w przycisk „Oblicz” powinno pojawić się okienko informacyjne, zawierające wynik działania albo okienko błędu wskazujące przyczynę uniemożliwiającą wykonanie żądanej operacji.
 Po zamknięciu okna błędu skupienie powinno przenieść się do tego widżetu Entry, w którym wykryto błąd.
+
+Zadanie 3. Żaglowiec.
+Widżety: 1xCanvas.
+Zadaniem programu jest stworzenie rysunku przedstawionego żaglowiec. Nie realizujemy żadnej interakcji z użytkownikiem.
+
