@@ -40,3 +40,11 @@ a zafifkowany bit 1. Lewy skrajny checkbutton reprezentuje najstarszy bit.
 Wartość powstałej w ten sposób liczby należy pokazać wytłuszczoną czcionką Arial w kolorze niebieskim.
 Kliknięcie przycisku „Koniec” powoduje wyjście z programu.
 
+Zadanie 8. OX. Widżety: 9xButton.
+Program powinien otworzyć okno, w którym umieszczonych jest 9 „gołych” widżetów Button (rozmieszczonych w siatce 3x3), 
+reprezentujących 9 kratek gry w kółko i krzyżyk. Grę rozpoczyna komputer, umieszczając na losowo wybranym przycisku znak 'X'.
+Kliknięcie w przycisk, który nie ma jeszcze naniesionego żadnego znaku, oznacza postawienie kółka (znak 'O'). 
+W odpowiedzi na ruch użytkownika program odpowiada swoim losowym posunięciem i gra toczy się dalej.
+Program powinien wykryć fakt zakończenia gry (wygrana jednej ze stron lub remis) i zakomunikować to okienkiem
+informacyjnym. Znaki X i O powinny mieć różne kolory i powinny być naniesione wytłuszczoną czcionką Arial o wielkości 20pt.
+
