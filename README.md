@@ -48,3 +48,39 @@ W odpowiedzi na ruch użytkownika program odpowiada swoim losowym posunięciem i
 Program powinien wykryć fakt zakończenia gry (wygrana jednej ze stron lub remis) i zakomunikować to okienkiem
 informacyjnym. Znaki X i O powinny mieć różne kolory i powinny być naniesione wytłuszczoną czcionką Arial o wielkości 20pt.
 
+Zadanie 9. Tabliczka. Widżety: 20xRadiobutton, 1xLabel.
+Program otwiera okno, w którym prezentuje dwa rzędy przycisków radiowych (jeden w pionie, jeden w poziomie), 
+zadających wartości mnożnej i mnożnika (wstępnie oba rzędy przycisków mają wybrany element '1'). 
+Wartość iloczynu pokazywana jest w centrum okna, przy czym należy zadbać, aby każda z wartości iloczynu prezentowana była innym kolorem.
+
+Zadanie 10. Sygnalizator. Widżety: 1xCanvas.
+Program otwiera okno, w którym prezentuje uproszczony wizerunek trzykomorowego sygnalizatora świetlnego.
+Zakładamy, że światło zapalone pokazywane jest właściwym dla niego kolorem, światło wygaszone pokazywane jest jako szare. 
+Co sekundę sygnalizator zmienia stan, przechodząc przez 4 kolejne fazy (czerwone → czerwone + pomarańczowe → zielone →
+pomarańczowe → da capo al fine).
+
+Zadanie 11. Kalkulator2.
+Rozbuduj prototyp kalkulatora w taki sposób, aby wykonywał cztery podstawowe działania oraz był
+wyposażony w operację zmiany znaku liczby widocznej na wyświetlaczu. 
+Operację dzielenia zrealizuj jako całkowitą.
+
+Zadanie 12. Kalkulator3.
+Rozbuduj Kalkulator2 w taki sposób, aby akceptował na wejściu dane zmiennoprzecinkowe i poprawnie
+wykonywał na nich cztery podstawowe operacje arytmetyczne.
+
+Zadanie 13. Text. Widżety: 1xText, 3xEntry.
+Naucz się używać widżetu Text i wykorzystaj go w programie, który służy do prostej analizy zawartości okna edycyjnego. 
+Zakładamy, że każda zmiana zawartości widżetu Text powoduje natychmiastowe odświeżenie wartości prezentowanych w polach Entry 
+(kolejno są to: liczba znaków ogółem, liczba liter, liczba cyfr). Zapewnij, że użytkownik nie będzie w stanie nic wprowadzać 
+do pól Entry (ich zawartość jest modyfikowana wyłącznie z wnętrza programu).
+
+Zadanie 14. Spinbox. Widżety: 4xSpinbox, 1xEntry.
+Naucz się używać widżetu Spinbox i wykorzystaj go w programie, który służy do przeliczania czterocyfrowej liczby szesnastkowej na reprezentację dziesiętną. Użyj Entry do prezentowania wartości dziesiętnej i czterech spinboksów do wprowadzania czterech cyfr
+szesnastkowych. Zakładamy, że zmiana stanu któregokolwiek ze spinboksów wywołuje natychmiastową zmianę zawartości widżetu Entry, 
+a sam widżet Entry jest niemodyfikowalny dla użytkownika.
+
+Zadanie 15. Listbox. Widżety: 2xListbox, 1xEntry, 1xCheckbutton.
+Naucz się używać widżetu Listbox i wykorzystaj go w programie, który służy do przeliczania daty na numer dnia w roku. 
+Użyj widżetu Checkbutton do wyboru pomiędzy rokiem przestępnym i nieprzestępnym i widżetu Entry do prezentowania numeru dnia w roku.
+Zakładamy, że zmiana stanu któregokolwiek ze listboksów wywołuje natychmiastową zmianę zawartości widżetu Entry, a użytkownik nie może zmieniać samodzielnie zawartości tego widżetu. Zaimplementuj sensowne zachowanie programu w sytuacji, gdy zmienia się stan checkbuttona.
+
