@@ -25,6 +25,13 @@ Przycisk reaguje na pojawienie się nad nim kursora myszy, przemieszczając się
 
 Zadanie 5. Głowa. Widżety: 1xButton.
 Program powinien otworzyć okno o rozmiarze 500x500, w którego środku pojawia się przycisk z bitmapą „questhead”. 
-Przycisk reaguje na naciskanie klawiszy kursora (strzałek na klawiaturze), przemieszczając się o jeden piksel w kierunku zadanym klawiszem lub o 5 pikseli, jeżeli użyto klawiszy kursora razem z klawiszem
-Ctrl. Przycisk żadnym swoim fragmentem nie może opuścić obszaru okna. Naciśnięcie klawisza <Esc> kończy pracę programu.
+Przycisk reaguje na naciskanie klawiszy kursora (strzałek na klawiaturze), przemieszczając się o jeden piksel w kierunku zadanym klawiszem lub o 5 pikseli, jeżeli użyto klawiszy kursora razem z klawiszem Ctrl. 
+Przycisk żadnym swoim fragmentem nie może opuścić obszaru okna. Naciśnięcie klawisza <Esc> kończy pracę programu.
+
+Zadanie 6. Klikacz.
+Widżety: 25xButton
+Program powinien otworzyć okno, w którym umieszczonych jest 25 widżetów Button (rozmieszczonych w siatce 5x5), 
+każdy opatrzony losowo wybraną, unikalną liczbą z przedziału od 1 do 999. 
+Zadanie użytkownika polega na klikaniu przycisków w kolejności rosnących liczb. 
+Przycisk kliknięty prawidłowostaje się nieaktywny, a pomyślne zakończenie zadania kwitowane jest gratulacjami w okienku informacyjnym.
 
